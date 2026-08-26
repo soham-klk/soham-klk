@@ -6,7 +6,6 @@
 ⚡ Secure Coding <br>
 🚀 Building Real-World Projects <br>
 
-
 ## 🌐 Socials:
  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sohamvkulkarni05@gmail.com) 
 
